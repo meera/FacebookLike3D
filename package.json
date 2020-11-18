@@ -1,0 +1,25 @@
+{
+  "name": "fake3d",
+  "version": "1.0.0",
+  "description": "An interactive \"fake\" 3D effect for images with plain WebGL.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akella/fake3d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akella/fake3d/issues"
+  },
+  "homepage": "https://github.com/akella/fake3d#readme",
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-glsl-loader": "^1.0.1"
+  }
+}
